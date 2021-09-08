@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-pretty-todo-app/static/css/main.f1a0679e.chunk.css",
+    "main.js": "/react-pretty-todo-app/static/js/main.9eee2471.chunk.js",
+    "main.js.map": "/react-pretty-todo-app/static/js/main.9eee2471.chunk.js.map",
+    "runtime-main.js": "/react-pretty-todo-app/static/js/runtime-main.546e74ef.js",
+    "runtime-main.js.map": "/react-pretty-todo-app/static/js/runtime-main.546e74ef.js.map",
+    "static/js/2.fcdcc7ea.chunk.js": "/react-pretty-todo-app/static/js/2.fcdcc7ea.chunk.js",
+    "static/js/2.fcdcc7ea.chunk.js.map": "/react-pretty-todo-app/static/js/2.fcdcc7ea.chunk.js.map",
+    "index.html": "/react-pretty-todo-app/index.html",
+    "static/css/main.f1a0679e.chunk.css.map": "/react-pretty-todo-app/static/css/main.f1a0679e.chunk.css.map",
+    "static/js/2.fcdcc7ea.chunk.js.LICENSE.txt": "/react-pretty-todo-app/static/js/2.fcdcc7ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.546e74ef.js",
+    "static/js/2.fcdcc7ea.chunk.js",
+    "static/css/main.f1a0679e.chunk.css",
+    "static/js/main.9eee2471.chunk.js"
+  ]
+}
